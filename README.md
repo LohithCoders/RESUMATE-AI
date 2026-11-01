@@ -9,6 +9,16 @@ A responsive, browser-based career intelligence prototype for comparing a resume
 3. Run `npm run dev` and open the local URL Vite prints.
 4. Run `npm run build` to create a production bundle in `dist/`.
 
+## Deploy to GitHub Pages
+
+The repository workflow builds this Vite app with the `/RESUMATE-AI/` base path, adds a Pages fallback for client-side routes, and deploys the `dist/` output whenever changes are pushed to `main`.
+
+1. On GitHub, open **Settings → Pages** for `LohithCoders/RESUMATE-AI` and set **Build and deployment → Source** to **GitHub Actions**.
+2. Push the updated files to the `main` branch. The workflow at `.github/workflows/deploy-pages.yml` builds and publishes the site.
+3. Open the deployment URL shown in the workflow run. For this project repository, it is usually `https://lohithcoders.github.io/RESUMATE-AI/`.
+
+For a local production build using the GitHub Pages path, run `$env:VITE_BASE_PATH='/RESUMATE-AI/'; npm run build` in PowerShell. Root-hosted deployments use `/` by default. GitHub Pages serves this app as a static demo; account data and uploaded resume text remain in each visitor's browser.
+
 No API key, account service, or paid model is required.
 
 ## Demo AI mode
