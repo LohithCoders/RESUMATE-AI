@@ -1,0 +1,7 @@
+AI/ML Engineer — Early Career
+
+We are looking for an early-career AI/ML Engineer to develop machine learning applications and work with structured and unstructured data.
+
+Requirements: Python, Machine Learning, Deep Learning, NLP, Transformers, SQL, Model Deployment, Data Preprocessing.
+
+Responsibilities include implementing NLP-based solutions, evaluating model performance, and collaborating with development teams. Experience deploying models with Docker or cloud platforms is a plus.

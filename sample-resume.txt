@@ -1,0 +1,19 @@
+Alex Johnson
+Aspiring AI/ML Engineer | alex.johnson@email.com
+
+PROFESSIONAL SUMMARY
+Computer Science graduate with hands-on experience building Python-based machine learning and NLP applications. Interested in responsible, practical AI systems.
+
+TECHNICAL SKILLS
+Python, Machine Learning, SQL, NLP, Data Analysis, HTML, CSS, JavaScript
+
+PROJECTS
+Customer Churn Prediction — Built a Python model to analyze structured customer data and evaluate prediction performance.
+AI Chatbot — Created an NLP chatbot prototype with text preprocessing and intent classification.
+Resume Analyzer — Developed a tool to identify resume keywords and compare profiles with job descriptions.
+
+EDUCATION
+B.Tech in Computer Science
+
+CERTIFICATIONS
+Python Programming; Machine Learning Fundamentals
